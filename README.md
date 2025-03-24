@@ -21,7 +21,7 @@ The dataset was imported into Tableau for visualization and analysis.
 ## Project Structure
 - **Documentation**: The full project report is available in the file `Meteorological Data Analysis Report.pdf`.  
 - **Visualizations**: Tableau workbook files containing the visualizations are included.  
-- **Dataset**: The raw Excel file from Kaggle is not included due to size constraints but can be downloaded from the link above.
+- **Dataset**: The raw Excel file from Kaggle is included.
 
 ## Key Findings
 1. **Humidity vs. Precipitation**:  
